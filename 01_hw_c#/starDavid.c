@@ -15,7 +15,7 @@ int main() {
 
 void drawStar(int size) {
 	if (size % 2 == 0) {
-		printf("Введите нечетное число (для красивых уголков в звезде)");
+		printf("Enter an odd number (for beautiful corners in the star)"); //Р’РІРµРґРёС‚Рµ РЅРµС‡РµС‚РЅРѕРµ С‡РёСЃР»Рѕ (РґР»СЏ РєСЂР°СЃРёРІС‹С… СѓРіРѕР»РєРѕРІ РІ Р·РІРµР·РґРµ)
 		return;
 	}
 
